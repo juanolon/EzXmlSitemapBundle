@@ -1,0 +1,9 @@
+{
+    "name": "janit/EzXmlSitemapBundle",
+    "description": "Simple eZ Publish Symfony Stack Sitemap Generator",
+    "require": {
+        "ezsystems/ezpublish-kernel": "*"
+    },
+    "authors": [
+    ]
+}
