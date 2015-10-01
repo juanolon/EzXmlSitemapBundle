@@ -1,9 +1,14 @@
 {
-    "name": "janit/EzXmlSitemapBundle",
+    "name": "janit/ezxmlsitemap-bundle",
     "description": "Simple eZ Publish Symfony Stack Sitemap Generator",
     "require": {
         "ezsystems/ezpublish-kernel": "*"
     },
     "authors": [
-    ]
+    ],
+    "autoload": {
+        "psr-0": {
+            "Janit\\EzXmlSitemapBundle": ""
+        }
+    }
 }
